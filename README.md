@@ -23,3 +23,9 @@ function decodeMessage(indexes, code) {
 /* Show message */
 console.log(decodeMessage(indexes,code));
 
+```
+
+``` console
+echo "hello world"
+```
+
