@@ -24,8 +24,8 @@ function decodeMessage(indexes, code) {
 console.log(decodeMessage(indexes,code));
 
 ```
-
+### Result
 ``` console
-echo "hello world"
+centipede
 ```
 
